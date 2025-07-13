@@ -1,0 +1,11 @@
+# Copyright (c) 2025 Stellrai. All rights reserved.
+
+# This file designates code owners for automatic review requests
+
+# Set the default owner for everything in the repo
+* @stellrai/core-team
+
+# Example: Assign ownership of specific folders or files to other teams or users
+# /docs/ @stellrai/docs-team
+# /src/security/ @stellrai/security-team
+# *.md @stellrai/docs-team
